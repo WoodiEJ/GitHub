@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Ex7 {
+public class Ex7P {
     
     public static void main(String[] args) {
         

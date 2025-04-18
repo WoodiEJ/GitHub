@@ -2,7 +2,8 @@
     "java.project.sourcePaths": [
         "src",
         "orientacaoObjetos",
-        "Execercicios"
+        "Execercicios",
+        "ExDnv"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
