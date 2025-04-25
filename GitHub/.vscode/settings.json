@@ -3,7 +3,8 @@
         "src",
         "orientacaoObjetos",
         "Execercicios",
-        "ExDnv"
+        "ExDnv",
+        "Herança Metodos"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
